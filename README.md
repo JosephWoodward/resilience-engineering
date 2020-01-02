@@ -441,8 +441,7 @@ interest in how people improve in expertise, so I'm including him here.
 
 ## Paul Feltovich
 
-[Feltovich](https://www.ihmc.us/groups/pfeltovich/) is a retired Senior Research Scientist at the Florida Institute for Human & Machine Cognition (IHMC),
-who has done extensive reserach in human expertise.
+[Feltovich](https://www.ihmc.us/groups/pfeltovich/) is a retired Senior Research Scientist at the Florida Institute for Human & Machine Cognition (IHMC), who has done extensive research in human expertise.
 
 ### Selected publications
 
@@ -486,7 +485,7 @@ See also: [list of publications](https://wo.cristin.no/as/WebObjects/cristin.woa
 ## Robert Hoffman
 
 [Hoffman](https://www.ihmc.us/groups/rhoffman/) is a senior research scientist at Florida Institute for Human & Machine Cognition (IHMC),
-who has done extensive reserach in human expertise.
+who has done extensive research in human expertise.
 
 ### Selected publications
 
@@ -512,8 +511,8 @@ who has done extensive reserach in human expertise.
 3. Autonomy is a widget.
 4. Autonomous systems are autonomous.
 5. Once achieved, full autonomy obviates the need for human-machine collaboration.
-6. As machines acquire more autonomy, they will work as simple sibstitutes (or multipliers) of human capability
-7. "Full autonomy"  is not only possible, but is always desireable.
+6. As machines acquire more autonomy, they will work as simple substitutes (or multipliers) of human capability
+7. "Full autonomy"  is not only possible, but is always desirable.
 
 ## Erik Hollnagel
 
@@ -726,7 +725,7 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
 ## Christopher Nemeth
 
-[Nemeth](https://www.linkedin.com/in/christopher-nemeth-6651204) is a principal scientist at Applied Resesarch Associates, Inc.
+[Nemeth](https://www.linkedin.com/in/christopher-nemeth-6651204) is a principal scientist at Applied Research Associates, Inc.
 
 ### Selected publications
 
